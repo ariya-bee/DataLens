@@ -129,6 +129,24 @@ DataLens/
 * Add more report customization options.
 * Expand testing and documentation.
 
+## Screenshots
+
+### Dashboard
+
+![DataLens Dashboard](screenshots/dashboard.png)
+
+### Data Analysis
+
+![Data Analysis](screenshots/data-analysis.png)
+
+### Data Cleaning
+
+![Data Cleaning](screenshots/data-cleaning.png)
+
+### Machine Learning Model Comparison
+
+![Model Comparison](screenshots/model-comparison.png)
+
 ## Author
 
 **Ariya Bee**
